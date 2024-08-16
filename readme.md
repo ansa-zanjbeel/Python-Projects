@@ -12,16 +12,16 @@ The tool includes features for encryption, decryption, resetting data, & robust 
 ### Features?
 
 * `Encrypt:`
-Securely encrypts your input using a specified password
+Securely encrypts your input using a specified password.
 
 * `Decrypt:`
-Decrypts encrypted data using the correct password
+Decrypts encrypted data using the correct password.
 
 * `Reset:`
-Clears all input and output fields, allowing for a fresh start
+Clears all input and output fields, allowing for a fresh start.
 
 * `Error Handling:` 
-Invalid password & Input password
+Invalid password & Input password.
 
 
 
