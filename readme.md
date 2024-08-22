@@ -2,7 +2,7 @@
 
 A Python GUI (Graphical User Interface) refers to a user interface created with Python that allows users to interact with software visually through buttons, windows, text boxes, etc., rather than via command-line interfaces. Python offers several libraries for building GUIs, each with its own features and advantages.
 
-### Tkinter
+## Tkinter
 
 A standard Python library for creating graphical user interfaces (GUIs). It provides a simple way to build basic GUI applications with widgets like buttons, labels, text boxes, and more. Tkinter is easy to use, cross-platform, and comes pre-installed with Python.
 
@@ -23,12 +23,12 @@ A standard Python library for creating graphical user interfaces (GUIs). It prov
 
 * Basic operations: Addition, subtraction, multiplication, division.
 
-* Clear button: Reset all input fields.
+* Clear button: Reset all input fields
 
-* Resizable window: Dynamic layout adjustment.
+* Resizable window: Dynamic layout adjustment
 
 
-### Installation 
+## Installation 
 
 `pip install -r requirements.txt`
 
